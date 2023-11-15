@@ -14,12 +14,6 @@ Notebook for Setup: [NoSQL_setup.ipynb](NoSQL_setup.ipynb)
 
 Notebook for Analysis: [NoSQL_analysis.ipynb](NoSQL_analysis.ipynb)
 
-<!-- ## Final datasets
-
-Resulting dataset for Part 1: [results/mars_news.json](results/mars_news.json)
-
-Resulting dataset for Part 2: [results/mars_weather.csv](results/mars_weather.csv) -->
-
 ---
 
 ## References
@@ -30,5 +24,3 @@ Accessed Sept 9, 2022 and Sept 12, 2022 with the establishment settings as follo
 Challenge instructions and starter files, as well as some code sections that were adapted from the UofT SCS EdX Data Bootcamp class activities:
 
 © 2022 edX Boot Camps LLC. Confidential and Proprietary. All Rights Reserved.
-
-Some other code sections were adapted from other sources, specific explanations are found within the code comments.
